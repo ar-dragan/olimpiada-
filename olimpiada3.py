@@ -1,0 +1,5 @@
+a = int(input("dati numarul de ani: "))
+print("In",a,"ani sunt", a * 12,"luni")
+print("In",a,"ani sunt", a * 52,"saptamani")
+print("In",a,"ani sunt", a * 365,"zile")
+print("In",a,"ani sunt", a * 365 * 24,"ore")
